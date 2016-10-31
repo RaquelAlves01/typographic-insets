@@ -100,3 +100,7 @@ main > p:first-child:first-letter {
   border-left: none;
   border-right: none;
 }
+
+main > p {
+  clear: left;
+}
