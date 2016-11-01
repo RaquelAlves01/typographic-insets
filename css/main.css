@@ -113,3 +113,9 @@ figure {
   width: 300px;
   overflow: hidden;
 }
+
+figcaption {
+  font-style: italic;
+  font-size: .875rem;
+}
+
