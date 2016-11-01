@@ -94,8 +94,8 @@ main > p:first-child::first-letter {
   color: #fff;
   float: left;
   overflow: hidden;
-  padding: .1em .2em;
-  margin: 0 1rem 1rem -25px;
+  padding: .2em .1em .15em .2em;
+  margin: 3px 8px 8px -40px;
   background-color: #666;
   border: 3px solid #333;
   border-left: none;
