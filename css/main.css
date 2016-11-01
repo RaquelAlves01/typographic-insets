@@ -119,3 +119,14 @@ figcaption {
   font-size: .875rem;
 }
 
+blockquote {
+  float: left;
+  width: 300px;
+  margin: 1rem;
+  text-align: right;
+  border: 3px solid #333;
+  color: #666;
+  border-left: none;
+  border-right: none;
+  font-size: 1.5rem;
+}
