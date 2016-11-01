@@ -104,3 +104,12 @@ main > p:first-child:first-letter {
 main > p:first-child {
   clear: left;
 }
+
+figure {
+  border: 3px solid #333;
+  border-left: none;
+  border-right: none;
+  float: right;
+  width: 300px;
+  overflow: hidden;
+}
