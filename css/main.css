@@ -87,14 +87,15 @@ footer {
 */
 
 /* Write your CSS here */
-main > p:first-child:first-letter {
+
+main > p:first-child::first-letter {
   font-size: 5rem;
   font-style: normal;
   color: #fff;
   float: left;
   overflow: hidden;
-  padding: .2em;
-  margin: 0 1rem 1rem;
+  padding: .1em .2em;
+  margin: 0 1rem 1rem -25px;
   background-color: #666;
   border: 3px solid #333;
   border-left: none;
@@ -112,6 +113,7 @@ figure {
   float: right;
   width: 300px;
   overflow: hidden;
+  margin: 1em;
 }
 
 figcaption {
