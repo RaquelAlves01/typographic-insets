@@ -102,10 +102,6 @@ main > p:first-child::first-letter {
   border-right: none;
 }
 
-main > p:first-child {
-  clear: left;
-}
-
 figure {
   border: 3px solid #333;
   border-left: none;
